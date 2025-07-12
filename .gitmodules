@@ -1,3 +1,3 @@
 [submodule "root/spidermaps"]
-	path = root/spidermaps
+	path = docs/spidermaps
 	url = https://github.com/rowlap/spidermaps.git
